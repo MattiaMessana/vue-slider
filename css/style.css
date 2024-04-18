@@ -2,6 +2,7 @@ body{
     font-family: "Montserrat", sans-serif;
 }
 
+
 div.my-carousel-container{
     min-height: 700px;
     min-width: 800px ;
@@ -110,5 +111,3 @@ div#my-carousel .my-thumbnails .my-thumbnail.active{
     filter:brightness(1);
     border: 3px rgb(197, 197, 197) solid;
 }
-
-
